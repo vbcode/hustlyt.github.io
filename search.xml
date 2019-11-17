@@ -4,7 +4,8 @@
     <title>软件推荐</title>
     <url>/2019/11/17/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
     <content><![CDATA[<p>不定时更新，最近更新<strong>20191117</strong>，自己用过的一些比较好用的软件</p>
-<p>&lt;! –more–&gt;</p>
+<figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!--more--&gt;</span></span><br></pre></td></tr></table></figure>
+
 <h4 id="一、音乐类"><a href="#一、音乐类" class="headerlink" title="一、音乐类"></a>一、音乐类</h4><p><strong>1、一键解锁网易云音乐灰色音乐小工具！付费音乐也能免费听！免费下！</strong></p>
 <p>​    52破解地址：<a href="https://www.52pojie.cn/thread-1010165-1-1.html" target="_blank" rel="noopener">https://www.52pojie.cn/thread-1010165-1-1.html</a></p>
 <p>​    GitHub地址：<a href="https://github.com/nondanee/UnblockNeteaseMusic" target="_blank" rel="noopener">https://github.com/nondanee/UnblockNeteaseMusic</a></p>
@@ -72,23 +73,5 @@
       <tags>
         <tag>软件推荐</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2019/11/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
   </entry>
 </search>
